@@ -1,0 +1,24 @@
+{
+  "name": "rekurtz",
+  "version": "0.0.1",
+  "description": "The Horror of unknown object traversal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grawk/rekurtz.git"
+  },
+  "keywords": [
+    "JSON",
+    "recursion",
+    "string"
+  ],
+  "author": "grawk <mattedelman@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grawk/rekurtz/issues"
+  },
+  "homepage": "https://github.com/grawk/rekurtz#readme"
+}
