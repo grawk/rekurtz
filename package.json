@@ -1,6 +1,6 @@
 {
   "name": "rekurtz",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "The Horror of unknown object traversal",
   "main": "index.js",
   "scripts": {
