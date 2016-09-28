@@ -42,6 +42,6 @@ undefined
 import rekurtz from 'rekurtz';
 
 let j = rekurtz({some: {json: {structure: 'here'}}}[, 'some']);
-console.log('structure'); //'here'
-console.log('structure.heart.of.darkness') //'no such key structure.heart.of.darkness'
+console.log(j('structure')); //'here'
+console.log(j('structure.heart.of.darkness')) //'no such key structure.heart.of.darkness'
 ```
